@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\DANIEL\source\repos\lab4OscarXiquin1118423\lab4OscarXiquin1118423\Source.cpp(20,29): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\DANIEL\source\repos\lab4OscarXiquin1118423\lab4OscarXiquin1118423\Source.cpp(21,28): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\DANIEL\source\repos\lab4OscarXiquin1118423\lab4OscarXiquin1118423\Source.cpp(42,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  lab4OscarXiquin1118423.vcxproj -> C:\Users\DANIEL\source\repos\lab4OscarXiquin1118423\x64\Debug\lab4OscarXiquin1118423.exe
